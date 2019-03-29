@@ -11,15 +11,12 @@ available to users when they are offline, and when they come back online again t
 updates will be fetched from the remote backend.
 
 ## Code base contains following features: 
-
-
--How to fetch data from a 3rd party API
--How to store and retrieve data locally
--How to use and manipulate Observables
--How to use conditionals in templates
--How to make use of events
--How to display and interact with videos
--How to integrate Capacitor functionality
+Navigation
+</br>Using a Sliding Menu
+</br>Using PouchDB to store local data
+</br>Using Cloudant to store remote data
+</br>Using the Facebook API for authentication and other features
+</br>Updating and displaying data in real time
 
 Happy coding! 
 </br>JTPL code library
