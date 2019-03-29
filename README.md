@@ -22,4 +22,7 @@ How to display and interact with videos
 How to integrate Capacitor functionality
 
 Happy coding! 
-JTPL code library
+<MTMarkdownOptions output='html4'>
+   JTPL code library
+</MTMarkdownOptions>
+
