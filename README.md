@@ -13,13 +13,13 @@ updates will be fetched from the remote backend.
 ## Code base contains following features: 
 
 
-How to fetch data from a 3rd party API
-How to store and retrieve data locally
-How to use and manipulate Observables
-How to use conditionals in templates
-How to make use of events
-How to display and interact with videos
-How to integrate Capacitor functionality
+-How to fetch data from a 3rd party API
+-How to store and retrieve data locally
+-How to use and manipulate Observables
+-How to use conditionals in templates
+-How to make use of events
+-How to display and interact with videos
+-How to integrate Capacitor functionality
 
 Happy coding! 
 </br>JTPL code library
