@@ -19,6 +19,6 @@ Navigation
 </br>Updating and displaying data in real time
 
 Happy coding! 
-</br>JTPL code library
+
 
 
